@@ -6,7 +6,7 @@ include("../database.php");
 <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
 <html>
 <head>
-<title>Administrative Login - Online Exam</title>
+<title>Admin Login - Online Exam</title>
 <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
 <link href="../quiz.css" rel="stylesheet" type="text/css">
 <link rel="stylesheet" href="css/bootstrap.min.css"/>
@@ -34,7 +34,7 @@ if(isset($submit))
 }
 ?>
 
-<h1 class="text-center bg-danger">Adminstrative Login</h1>
+<h1 class="text-center bg-danger">Admin Login</h1>
 <form name="form1" method="post" action="">
 <table class="table table-striped">
   <tr>

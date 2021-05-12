@@ -71,7 +71,7 @@ include("header.php");
  <table width="100%" border="0">
    <tr>
      
-     <h1 class="text-center bg-primary">REGISTRACTION PAGE</h1>
+     <h1 class="text-center bg-primary">REGISTRATION PAGE</h1>
    </tr>
    <tr>
      <td><form name="form1" method="post" action="signupuser.php" onSubmit="return check();">
